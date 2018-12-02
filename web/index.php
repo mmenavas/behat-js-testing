@@ -3,13 +3,8 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-
-  <title>The HTML5 Herald</title>
-  <meta name="description" content="The HTML5 Herald">
-  <meta name="author" content="SitePoint">
-
+  <title>Greeting App</title>
   <link rel="stylesheet" href="css/styles.css">
-
 </head>
 <body>
   <h1>Greeting App</h1>
