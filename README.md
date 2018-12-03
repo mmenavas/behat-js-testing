@@ -1,7 +1,7 @@
 # behat-js-testing
 Minimal code that demonstrates how to set up Behat for JS testing.
 
-## Prerequesites
+## Prerequisites
 - PHP
 - Composer
 - Google Chrome browser
